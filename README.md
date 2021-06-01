@@ -27,7 +27,7 @@
 
 ### Views
 
-![](https://komarev.com/ghpvc/?username=karamanemre&color=blue)
+![](https://komarev.com/ghpvc/?username=karamanemre&color=blue&style=flat-square)
 
 <br />
 <br />
