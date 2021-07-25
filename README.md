@@ -24,7 +24,8 @@
 
 
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=karamanemre&show_icons=true&theme=radical)
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanemre&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10)
+
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanemre&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=14)
 
 ### Views
 
