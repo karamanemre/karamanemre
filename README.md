@@ -1,4 +1,4 @@
-### Hi there, I'm Emre 👋
+### Hi, I'm Emre 👋
 
 #### Contact with me via these platforms!
 
