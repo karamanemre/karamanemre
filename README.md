@@ -34,7 +34,7 @@
 
 <br />
 <br />
-
+-->
 [linkedin]: https://www.linkedin.com/in/emre-karaman-38a362200/
 [gmail]: mailto:karamanemre68@gmail.com
 [html]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
@@ -44,5 +44,5 @@
 [java]: https://camo.githubusercontent.com/0abc42ab13b0e6af2b38cf8d082b3658e753125a076a2f7f20f65e89bf825719/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465
 [springboot]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png
 [react]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
-[postgresql]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png -->
+[postgresql]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png 
 
