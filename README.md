@@ -1,5 +1,7 @@
 ### Hi, I'm Emre 👋
 
+I'm a Java and React developer
+
 #### Contact with me via these platforms!
 
 [<img align="left" alt="Emre's LinkedIn | LinkedIn" width="120px" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
@@ -27,14 +29,14 @@
 
 ### Most Used Languages
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanemre&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10)
-
+<br />
+<br />
+--->
 ### Views
 
 ![](https://komarev.com/ghpvc/?username=karamanemre&color=blue&style=flat-square)
 
-<br />
-<br />
---->
+
 [linkedin]: https://www.linkedin.com/in/karamanemre/
 [gmail]: mailto:karamanemre68@gmail.com
 [html]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
