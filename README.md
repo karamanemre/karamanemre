@@ -4,12 +4,18 @@ Hi 👋 My name is Emre
 Java & SAP Hybris & React Developer
 -----------------------------------
 
-* 🚀  I'm currently working on [Enoca](http://www.enoca.com/?page_id=68&lang=tr)
 
 #### Contact with me via these platforms!
 
 [<img align="left" alt="Emre's LinkedIn | LinkedIn" width="120px" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
 [<img align="left" alt="Emre's Gmail | Gmail" width="90px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />][gmail]
+
+<br /><br />
+
+<a href="https://www.twitter.com/emrerhy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/emrerhy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/karamanemre" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/karamanemre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br /><br />
 
