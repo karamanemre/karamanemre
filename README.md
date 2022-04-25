@@ -1,6 +1,8 @@
-### Hi, I'm Emre 👋
+Hi 👋 My name is Emre
+=====================
 
-I'm a Java and React developer
+Java & SAP Hybris & React Developer
+-----------------------------------
 
 #### Contact with me via these platforms!
 
