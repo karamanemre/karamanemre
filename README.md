@@ -16,9 +16,7 @@ Java & SAP Hybris Developer
 src="https://img.shields.io/twitter/follow/emrerhy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/karamanemre" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karamanemre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <br /><br />
-
 ### 🛠 Technologies & Tools
 
 [<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
