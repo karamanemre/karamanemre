@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre
 =====================
 
-Java & SAP Hybris Developer
+Java & React Developer
 -----------------------------------
 
 
