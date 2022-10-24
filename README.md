@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre
 =====================
 
-Java & Node.js & React Developer
+Fullstack Developer
 -----------------------------------
 
 
