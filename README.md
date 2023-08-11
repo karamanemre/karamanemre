@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre
 =====================
 
-Fullstack Developer
+Software Developer
 -----------------------------------
 
 
