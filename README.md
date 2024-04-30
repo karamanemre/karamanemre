@@ -22,6 +22,7 @@ Software Developer
 [<img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="springboot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][springboot]
 [<img align="left" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="nodejs" width="30px" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" />][nextjs]
 <!-- [<img align="left" alt="postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql] -->
 
 
@@ -51,5 +52,6 @@ Software Developer
 [springboot]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png
 [react]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 [nodejs]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+[nextjs]: https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png
 <!-- [postgresql]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png  -->
 
